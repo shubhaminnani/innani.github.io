@@ -1,37 +1,37 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: shubhaminnani/shubhaminnani.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Shubham Innani
+title: Research Intern
+email: shubham.innani@gmail.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: +91 7023-999-795 / + -1 215-397-7896
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: shubhaminnani.github.io (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
+twitter_username: innani8
+github_username:  shubhaminnani
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+instagram_username: innanishubham
+linkedin_username: shubhaminnani
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#orcid_username: 0000-0000-0000-0000
+googlescholar_username: Aw0CjT8AAAAJ&hl
 
 # Additional icon links
 additional_links:
@@ -50,15 +50,16 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/1561796249984.jfif
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+I'm Shubham and Research Intern at Center for Biomedical Image Comuting and Analytics (CBICA), University of Pennsylvania.
+My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection. 
+Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.
+#You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+ #   - Tables
+ #   - <a href="google.com">Links</a>
+ #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -67,7 +68,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: Semantic Segmentation
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
