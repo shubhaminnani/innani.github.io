@@ -127,10 +127,10 @@ content:
         title: Anamoly Pattern Segmentation in Agriculture
         border: weak
         #link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        # additional_links:
+        #   - title: sproogen/itsgoingto.be
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/itsgoingto.be
         quote: >
           Anamoly Pattern Segmentation in Agriculture
         description: |
@@ -146,10 +146,10 @@ content:
         title: Skin lesion Segmentation and Classification
         border: weak
         #link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        # additional_links:
+        #   - title: sproogen/itsgoingto.be
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/itsgoingto.be
         quote: >
           ISIC Challenge, MICCAI 2018
         description: |
@@ -167,10 +167,10 @@ content:
         title: Retinal Fundus Glaucoma Analysis
         border: weak
         #link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        # additional_links:
+        #   - title: sproogen/itsgoingto.be
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/itsgoingto.be
         quote: >
           REFUGE2 Challenge, MICCAI 2020
         description: |
@@ -185,12 +185,12 @@ content:
         title: Automatic Number Plate Recognition
         border: weak
         #link: www.itsgoingto.be
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        # additional_links:
+        #   - title: sproogen/itsgoingto.be
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/itsgoingto.be
         quote: >
-          Anamoly Pattern Segmentation in Agriculture
+          Project part of work with Nymo.ai
         description: |
           Focus was on the development of novel and realtime algorithms for Automatic Number
           Plate Recognition. This algorithm implements end-to-end You Only Look Once (YOLO)
@@ -200,12 +200,12 @@ content:
         title: Prognostic Stratification of Glioblastoma
         #link: www.itsgoingto.be
         border: weak
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
+        # additional_links:
+        #   - title: sproogen/itsgoingto.be
+        #     icon: fab fa-github
+        #     url: https://github.com/sproogen/itsgoingto.be
         quote: >
-          Anamoly Pattern Segmentation in Agriculture
+          Project part of work with CBICA, UPenn
         description: |
           Focus is to develop computational algorithm from Digital H&E Stained Histopathology
           Images to derive the driving decision of Long and Short Survivals in Brain Tumor
