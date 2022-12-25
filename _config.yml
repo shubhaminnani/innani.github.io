@@ -51,7 +51,20 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1561796249984.jfif
-about_content: I'm Shubham and Research Intern at Center for Biomedical Image Comuting and Analytics (CBICA), University of Pennsylvania. My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection.  Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.
+
+about_content: |
+  I'm Shubham and Research Intern at Center for Biomedical Image Comuting and Analytics (CBICA), University of Pennsylvania. 
+  My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection.  
+  Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.  
+  I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things that I currently have the most experience working with are:
+  <mark>Deep Learning</mark>,
+  <mark>Computer Vision</mark>,
+  <mark>Medical Imaging</mark>,
+  <mark>Tensorflow</mark>,
+  <mark>Pytorch</mark>,
+  <mark>Git</mark> and 
+  <mark>Python</mark>.
 #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
  #   - Tables
@@ -60,30 +73,63 @@ about_content: I'm Shubham and Research Intern at Center for Biomedical Image Co
 
 content:
   - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: list
     content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
+      - layout: top-middle
+        border: weak
         title: Semantic Segmentation
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        link: https://github.com/india-driving-dataset/semantic_seg
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: India Driving Dataset
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url:https://github.com/india-driving-dataset/semantic_seg
         quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
+        description: |
+          Encoder-Decoder architecture is developed for semantic scene segmentation in unstructured environment with various 
+          backbones like InceptionResNetV2, EfficientNets using Deep Learning on Indian Driving Dataset (IDD) and IDD lite.
+      - layout: top-middle
+        title: itsgoingto.be
+        link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
+          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+        description: |
+          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
+          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
+          a suite of unit and API tests for the backend and unit tests for the front end.
+          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
+          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+      - layout: top-middle
+        title: itsgoingto.be
+        link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
+          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+        description: |
+          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
+          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
+          a suite of unit and API tests for the backend and unit tests for the front end.
+          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
+          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
+          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+
+
+
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
+        title: Nymo.ai
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
         link: Link to company (optional)
@@ -91,6 +137,30 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
+      - layout: left
+        title: GWS Media
+        sub_title: Web Developer
+        link: www.gwsmedia.com
+        caption: June 2012 - August 2014
+        description: |
+          I started working for GWS Media part time during my third year at University and continued full time once I had
+          graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
+          the past 3 years. Whilst at GWS I had the opportunity to work with:
+          <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
+          I feel like having the opportunity to use a large range of different things early on in my career has given me
+          the drive to always want to try new tools and frameworks.
+       - layout: left
+        title: GWS Media
+        sub_title: Web Developer
+        link: www.gwsmedia.com
+        caption: June 2012 - August 2014
+        description: |
+          I started working for GWS Media part time during my third year at University and continued full time once I had
+          graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
+          the past 3 years. Whilst at GWS I had the opportunity to work with:
+          <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
+          I feel like having the opportunity to use a large range of different things early on in my career has given me
+          the drive to always want to try new tools and frameworks.
   - title: Education
     layout: list
     content:
@@ -102,6 +172,16 @@ content:
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Description of qualification
+          
+       - layout: top-right
+        title: Institution name
+        sub_title: Qualifications (eg. BA Performing Arts)
+        caption: Date Range (eg. 2016 - 2019)
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
