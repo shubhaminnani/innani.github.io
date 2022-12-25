@@ -93,40 +93,35 @@ content:
       - layout: top-middle
         border: weak
         title: Semantic Segmentation on India Driving Dataset (IDD) and IDD lite
-        #link: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
-        additional_links:
-          - title: Paper
-            icon: fa-brands fa-researchgate
-            url: https://github.com/india-driving-dataset/semantic_seg
-          - title: Paper
-            icon: fab fa-github
-            url: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
-          - title: Paper
-            icon: fab fa-github
-            url: https://ieeexplore.ieee.org/document/9150621
+        link: 
+       
+           
         quote: >
           Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
           (AUTONUE Challenge, ICCV 2019 & NCVPRIPG Challenge 2019 & ICVGIP Challenge 2020)
         description: |
           Encoder-Decoder architecture is developed for semantic scene segmentation in unstructured environment with various 
           backbones like InceptionResNetV2, EfficientNets using Deep Learning on Indian Driving Dataset (IDD) and IDD lite.
+
+          Baheti B, <mark>Innani S</mark>, Gajre S, Talbar S. <a href="https://ieeexplore.ieee.org/document/9150621">Eff-UNet: A Novel Architecture for Semantic Segmentation in Unstructured Environment.</a> 
+          2020 IEEE CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), Seattle, WA, USA, 2020, pp. 1473-1481, doi: 10.1109/CVPRW50498.2020.00187.
       
+          Bhakti Baheti, <mark>Shubham Innani</mark>, Suhas Gajre, Sanjay Talbar. 
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750">Semantic scene segmentation in unstructured environment with modified DeepLabV3+.</a> 
+          Elsevier Pattern Recognition Letters, Volume 138, 2020, Pages 223-229, ISSN 0167-8655,doi: 10.1016/j.patrec.2020.07.029.
+
       - layout: top-middle
-        title: Age Related Macular Degeneration
+        title: Age Related Macular Degeneration from Retinal Fundus Images.
        # link: 
-        additional_links:
-          - title: sproogen/itsgoingto.be
-            icon: fab fa-github
-            url: https://github.com/sproogen/itsgoingto.be
         quote: >
           AMD Challenge, ISBI 2020
         description: |
-          Development of algorithms associated with the diagnosis of Age-related Macular 
-          degeneration (AMD) and segmentation of lesions in fundus photos from AMD patients
+          Development of algorithms associated with the diagnosis of Age-related Macular degeneration (AMD) and segmentation of lesions in fundus photos from AMD patients 
           with Convolutional Neural Networks.
-      
-      
-      
+          Fang H, Li F, Fu H, Sun X, Cao X, Lin F, Son J, Kim S, Quellec G, Matta S, Shankaranarayana SM, Ujjwal B, Shubham I and others, 
+          <a href="https://ieeexplore.ieee.org/abstract/document/9768802">ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images</a>, in IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2022.3172773.
+          
+          
       - layout: top-middle
         title: Anamoly Pattern Segmentation in Agriculture
         #link: www.itsgoingto.be
@@ -137,9 +132,13 @@ content:
         quote: >
           Anamoly Pattern Segmentation in Agriculture
         description: |
-          Novel and effective algorithms is developed for agricultural pattern recognition from
-          aerial images using Feature Pyramid Network as encoder and varying the decoder
+          Novel and effective algorithms is developed for agricultural pattern recognition from aerial images using Feature Pyramid Network as encoder and varying the decoder
           backbones.
+
+          <mark>Innani, S. </mark>, Dutande, P., Baheti, B., Talbar, S., and Baid, U. <a href="https://ieeexplore.ieee.org/document/9150621"> 
+          Fuse-PN: A Novel Architecture for Anomaly Pattern Segmentation in Aerial Agricultural Images.</a> 
+          In Proceedings of the IEEE CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops(2021)(pp. 2960-2968).
+
 
       - layout: top-middle
         title: Skin lesion Segmentation and Classification
@@ -153,6 +152,11 @@ content:
         description: |
           Generative Adversarial Network based architecture is developed for skin lesion segmentation and classification with Convolutional Neural Network. The classification 
           task is carried out with state-of-the-art networks like ResNets, MobileNets, Xception, EfficientNets.
+
+          <mark>Innani, S. </mark>, Dutande, P., Baheti, B., Talbar, S., and Baid, U. 
+          Deep Learning based Novel Cascaded Approach for Skin Lesion Analysis
+          International Conference on Computer Vision and Image Processing, 2022 (In Press)
+
 
 
 
@@ -169,7 +173,8 @@ content:
           Algorithm for Retinal Fundus Glaucoma Analysis with segmentation of optic disc 
           and cup, classification of glaucoma and localization of fovea is being developed. We 
           leverage the power of Efficientnets and Unet for all the tasks.
-
+          Fang H, Li F, Fu H, Sun X, Cao X, Son J, Yu S, Zhang M, Yuan C, Bian C, Lei B., Ujjwal B, Shubham I and others, 
+          <a href="https://arxiv.org/abs/2202.08994"REFUGE2 Challenge: Treasure for Multi-Domain Learning in Glaucoma Assessment </a>. arXiv preprint arXiv:2202.08994. 2022 Feb 18. (Under review at Medical Image Analysis, Elsevier).
 
 
       - layout: top-middle
@@ -207,16 +212,16 @@ content:
         border: weak
         title: Research Intern
         sub_title: CBICA
-        caption: July 2021 - Present
+        caption: August 2022 - Present
         description: |
           Focus is to develop computational algorithm from Digital H&E Stained Histopathology 
           Images to derive the driving decision of Long and Short Survivals in Brain Tumor
           Patients using Weakly Supervised Approach. 
       - layout: left
         border: weak
-        title: Assitant System Engineer
+        title: Assistant System Engineer
         sub_title: Tata Consultancy Services, Pune, India
-        caption: August 2017 - July 2021
+        caption: January 2021 - July 2022
         description: |
           Worked with leading Bank as client for migration of legacy Infrastructure to AWS Cloud. 
           As an System Engineer job was to integrate various components with each other.
@@ -225,7 +230,7 @@ content:
         title: Nymo.ai
         sub_title: Data Science Intern
         #link: www.simitive.com
-        caption: November 2015 - August 2017
+        caption: March 2022 - June 2022
         description: |
           During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
           Also, worked on Mask Detection using YoloV3.
