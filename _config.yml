@@ -57,7 +57,8 @@ about_content: |
   My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection.  
   Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.  
   I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
-  with something new. The things that I currently have the most experience working with are:
+  with something new. 
+  The things that I currently have the most experience working with are:
   <mark>Deep Learning</mark>,
   <mark>Computer Vision</mark>,
   <mark>Medical Imaging</mark>,
@@ -86,7 +87,7 @@ content:
 
           
 
-  - title: Projects # Title for the section
+  - title: Projects & Publications # Title for the section
     layout: list
     content:
       - layout: top-middle
@@ -94,8 +95,8 @@ content:
         title: Semantic Segmentation on India Driving Dataset (IDD) and IDD lite
         #link: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
         additional_links:
-          - title: GitHub
-            icon: fab fa-github
+          - title: Paper
+            icon: fa-brands fa-researchgate
             url: https://github.com/india-driving-dataset/semantic_seg
           - title: Paper
             icon: fab fa-github
