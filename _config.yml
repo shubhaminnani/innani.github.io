@@ -34,10 +34,10 @@ linkedin_username: shubhaminnani
 googlescholar_username: Aw0CjT8AAAAJ&hl
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+#- title: Link name
+#  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -92,11 +92,14 @@ content:
       - layout: top-middle
         border: weak
         title: Semantic Segmentation
-        link: https://github.com/india-driving-dataset/semantic_seg
+        #link: https://github.com/shubhaminnani/idd
         additional_links:
-          - title: India Driving Dataset
+          - title: GitHub
             icon: fab fa-github
             url: https://github.com/india-driving-dataset/semantic_seg
+          - title: Paper Link
+            icon: fab fa-google-scholar
+            url: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
         quote: >
           Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
         description: |
