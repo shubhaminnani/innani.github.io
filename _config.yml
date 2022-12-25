@@ -36,7 +36,7 @@ googlescholar_username: Aw0CjT8AAAAJ&hl
 # Additional icon links
 additional_links:
   - title: Link name
-    icon: <i class="fa-solid fa-file-pdf"></i> (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+    icon: fa-solid fa-file-pdf
     url: https://github.com/shubhaminnani/shubhaminnani.github.io/blob/master/images/shubham_resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -93,7 +93,7 @@ content:
       - layout: top-middle
         border: weak
         title: Semantic Segmentation on India Driving Dataset (IDD) and IDD lite
-        link: 
+        #link: 
        
            
         quote: >
@@ -112,6 +112,7 @@ content:
 
       - layout: top-middle
         title: Age Related Macular Degeneration from Retinal Fundus Images.
+        border: weak
        # link: 
         quote: >
           AMD Challenge, ISBI 2020
@@ -124,6 +125,7 @@ content:
           
       - layout: top-middle
         title: Anamoly Pattern Segmentation in Agriculture
+        border: weak
         #link: www.itsgoingto.be
         additional_links:
           - title: sproogen/itsgoingto.be
@@ -142,6 +144,7 @@ content:
 
       - layout: top-middle
         title: Skin lesion Segmentation and Classification
+        border: weak
         #link: www.itsgoingto.be
         additional_links:
           - title: sproogen/itsgoingto.be
@@ -162,6 +165,7 @@ content:
 
       - layout: top-middle
         title: Retinal Fundus Glaucoma Analysis
+        border: weak
         #link: www.itsgoingto.be
         additional_links:
           - title: sproogen/itsgoingto.be
@@ -179,6 +183,7 @@ content:
 
       - layout: top-middle
         title: Automatic Number Plate Recognition
+        border: weak
         #link: www.itsgoingto.be
         additional_links:
           - title: sproogen/itsgoingto.be
@@ -194,6 +199,7 @@ content:
       - layout: top-middle
         title: Prognostic Stratification of Glioblastoma
         #link: www.itsgoingto.be
+        border: weak
         additional_links:
           - title: sproogen/itsgoingto.be
             icon: fab fa-github
@@ -296,34 +302,34 @@ content:
           Jodhpur, by IIIT Hyderabad, and Intel, India.
 
 
-  - title: Knowledge Area
-    layout: list
-    content:
-      - layout: left
-        border: weak
-        title: Networks
-        #sub_title: 
-        #caption: July 2021 - Present
-        description: |
-          Convolutional Neural Network (CNN), Segmentation Models, CNN based classification
-          models, Object detection models, Generative Adversarial Networks (GAN)
-      - layout: left
-        border: weak
-        title: Libraries
-        sub_title: Tata Consultancy Services, Pune, India
-        caption: August 2017 - July 2021
-        description: |
-          Worked with leading Bank as client for migration of legacy Infrastructure to AWS Cloud. 
-          As an System Engineer job was to integrate various components with each other.
-      - layout: left
-        border: weak
-        title: Nymo.ai
-        sub_title: Data Science Intern
-        #link: www.simitive.com
-        caption: November 2015 - August 2017
-        description: |
-          During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
-          Also, worked on Mask Detection using YoloV3.
+  # - title: Knowledge Area
+  #   layout: list
+  #   content:
+  #     - layout: left
+  #       border: weak
+  #       title: Networks
+  #       #sub_title: 
+  #       #caption: July 2021 - Present
+  #       description: |
+  #         Convolutional Neural Network (CNN), Segmentation Models, CNN based classification
+  #         models, Object detection models, Generative Adversarial Networks (GAN)
+  #     - layout: left
+  #       border: weak
+  #       title: Libraries
+  #       sub_title: Tata Consultancy Services, Pune, India
+  #       caption: August 2017 - July 2021
+  #       description: |
+  #         Worked with leading Bank as client for migration of legacy Infrastructure to AWS Cloud. 
+  #         As an System Engineer job was to integrate various components with each other.
+  #     - layout: left
+  #       border: weak
+  #       title: Nymo.ai
+  #       sub_title: Data Science Intern
+  #       #link: www.simitive.com
+  #       caption: November 2015 - August 2017
+  #       description: |
+  #         During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
+  #         Also, worked on Mask Detection using YoloV3.
 
 
   - title: A Little More About Me
