@@ -229,7 +229,7 @@ content:
           During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
           Also, worked on Mask Detection using YoloV3.
 
-- title: Awards and Accomplishment
+  - title: Awards and Accomplishment
     layout: list
     content:
       - layout: left
