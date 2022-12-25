@@ -1,9 +1,9 @@
 # Site
 repository: shubhaminnani/shubhaminnani.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1
 
 # Personal info
 name: Shubham Innani
@@ -91,23 +91,26 @@ content:
     content:
       - layout: top-middle
         border: weak
-        title: Semantic Segmentation
-        #link: https://github.com/shubhaminnani/idd
+        title: Semantic Segmentation on India Driving Dataset (IDD) and IDD lite
+        #link: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
         additional_links:
           - title: GitHub
             icon: fab fa-github
             url: https://github.com/india-driving-dataset/semantic_seg
-          - title: Paper Link
-            icon: fab fa-google-scholar
+          - title: Paper
+            icon: fab fa-github
             url: https://www.sciencedirect.com/science/article/abs/pii/S0167865520302750
+          - title: Paper
+            icon: fab fa-github
+            url: https://ieeexplore.ieee.org/document/9150621
         quote: >
           Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
         description: |
           Encoder-Decoder architecture is developed for semantic scene segmentation in unstructured environment with various 
           backbones like InceptionResNetV2, EfficientNets using Deep Learning on Indian Driving Dataset (IDD) and IDD lite.
       - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
+        title: Semantic Segmentation on India Driving Dataset
+        link: 
         additional_links:
           - title: sproogen/itsgoingto.be
             icon: fab fa-github
