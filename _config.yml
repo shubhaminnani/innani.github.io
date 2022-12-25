@@ -82,7 +82,7 @@ content:
         additional_links:
           - title: India Driving Dataset
             icon: fab fa-github
-            url:https://github.com/india-driving-dataset/semantic_seg
+            url: https://github.com/india-driving-dataset/semantic_seg
         quote: >
           Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
         description: |
