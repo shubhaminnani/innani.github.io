@@ -72,6 +72,20 @@ about_content: |
  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-middle
+        title: Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded, Maharashtra, India
+        sub_title: Bachelors of Technology - Electronics and Telecommunication Engineering
+        caption: 2016 - 2020
+        description: |
+          During my degree at SGGSIE&T I learnt lots of key skills. 
+          While at SGGSIE&T I spent a lot of my free time with Center of Excellence, Signal and Image Processing. 
+          During this time, I learned concepts of Deep Learning and Computer Vision.
+
+          
+
   - title: Projects # Title for the section
     layout: list
     content:
@@ -219,20 +233,7 @@ content:
           I feel like having the opportunity to use a large range of different things early on in my career has given me
           the drive to always want to try new tools and frameworks.
            
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Bristol University
-        sub_title: BSc Computer Science
-        caption: 2010 - 2013
-        description: |
-          During my degree at Bristol University I learnt lots of key skills such as team work and project management. Although
-          we mainly focused on software development and the principles of programming I use a lot of these skills to
-          my advantage in my day to day work.
-          While at Bristol Uni I spent a lot of my free time with the Kitesurfing society. I spent 3 years on the committee
-          as a secretary, trip rep and then media and promotions manager. During this time I took on roles from organising
-          transport and designing posters to organising a trip to Portugal for over 30 students.
+  
 
   - title: A Little More About Me
     layout: text
