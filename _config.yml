@@ -51,10 +51,7 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/1561796249984.jfif
-about_content: | # this will include new lines to allow paragraphs
-I'm Shubham and Research Intern at Center for Biomedical Image Comuting and Analytics (CBICA), University of Pennsylvania.
-My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection. 
-Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.
+about_content: I'm Shubham and Research Intern at Center for Biomedical Image Comuting and Analytics (CBICA), University of Pennsylvania. My Expertise include exploring Deep Learning Tools for Computer Vision Tasks such as Classification, Segmentation, Detection.  Currently working on H&E stained digital Histopathology Images for Prognostic Stratification of Glioblastoma.
 #You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
 #    - Lists
  #   - Tables
