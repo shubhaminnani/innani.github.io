@@ -36,7 +36,7 @@ googlescholar_username: Aw0CjT8AAAAJ&hl
 # Additional icon links
 additional_links:
   - title: Resume
-    icon: <i class="fa-solid fa-file-pdf"></i>
+    icon: fa-solid fa-file-pdf
     url: https://github.com/shubhaminnani/shubhaminnani.github.io/blob/master/images/shubham_resume.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
