@@ -105,148 +105,227 @@ content:
             url: https://ieeexplore.ieee.org/document/9150621
         quote: >
           Semantic Segmentation in Unstructured Environment with Modified DeepLabV3+
+          (AUTONUE Challenge, ICCV 2019 & NCVPRIPG Challenge 2019 & ICVGIP Challenge 2020)
         description: |
           Encoder-Decoder architecture is developed for semantic scene segmentation in unstructured environment with various 
           backbones like InceptionResNetV2, EfficientNets using Deep Learning on Indian Driving Dataset (IDD) and IDD lite.
+      
       - layout: top-middle
-        title: Semantic Segmentation on India Driving Dataset
-        link: 
+        title: Age Related Macular Degeneration
+       # link: 
         additional_links:
           - title: sproogen/itsgoingto.be
             icon: fab fa-github
             url: https://github.com/sproogen/itsgoingto.be
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          AMD Challenge, ISBI 2020
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+          Development of algorithms associated with the diagnosis of Age-related Macular 
+          degeneration (AMD) and segmentation of lesions in fundus photos from AMD patients
+          with Convolutional Neural Networks.
+      
+      
+      
       - layout: top-middle
-        title: itsgoingto.be
-        link: www.itsgoingto.be
+        title: Anamoly Pattern Segmentation in Agriculture
+        #link: www.itsgoingto.be
         additional_links:
           - title: sproogen/itsgoingto.be
             icon: fab fa-github
             url: https://github.com/sproogen/itsgoingto.be
         quote: >
-          itsgoingto.be is a simple voting site where a user can ask a question or topic top put to a vote. This question
-          can then be shared with their friends/colleagues to vote on things like 'Where should we go for lunch?'.
+          Anamoly Pattern Segmentation in Agriculture
         description: |
-          The API for this site has been build using <mark>Node.js</mark> while the front end is a <mark>React</mark>/<mark>Redux</mark> app.
-          I have used <mark>Docker</mark> to set up a development environment and <mark>Heroku</mark> to deploy and host the site. I have
-          a suite of unit and API tests for the backend and unit tests for the front end.
-          I have been using this project as a way to increase many of my skills and also learn new things, most recently sockets and Node.JS. I have particually
-          enjoyed managing my own project and designing my own architecture and implementing this to a high standard.
-          Feel free to check out the whole project on GitHub to get a feel for how I work [here](https://github.com/sproogen/itsgoingto.be).
+          Novel and effective algorithms is developed for agricultural pattern recognition from
+          aerial images using Feature Pyramid Network as encoder and varying the decoder
+          backbones.
+
+      - layout: top-middle
+        title: Skin lesion Segmentation and Classification
+        #link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          ISIC Challenge, MICCAI 2018
+        description: |
+          Generative Adversarial Network based architecture is developed for skin lesion segmentation and classification with Convolutional Neural Network. The classification 
+          task is carried out with state-of-the-art networks like ResNets, MobileNets, Xception, EfficientNets.
 
 
+
+      - layout: top-middle
+        title: Retinal Fundus Glaucoma Analysis
+        #link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          REFUGE2 Challenge, MICCAI 2020
+        description: |
+          Algorithm for Retinal Fundus Glaucoma Analysis with segmentation of optic disc 
+          and cup, classification of glaucoma and localization of fovea is being developed. We 
+          leverage the power of Efficientnets and Unet for all the tasks.
+
+
+
+      - layout: top-middle
+        title: Automatic Number Plate Recognition
+        #link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          Anamoly Pattern Segmentation in Agriculture
+        description: |
+          Focus was on the development of novel and realtime algorithms for Automatic Number
+          Plate Recognition. This algorithm implements end-to-end You Only Look Once (YOLO)
+          based object detector and Mask-RCNN based Region Proposal Network.
+
+      - layout: top-middle
+        title: Prognostic Stratification of Glioblastoma
+        #link: www.itsgoingto.be
+        additional_links:
+          - title: sproogen/itsgoingto.be
+            icon: fab fa-github
+            url: https://github.com/sproogen/itsgoingto.be
+        quote: >
+          Anamoly Pattern Segmentation in Agriculture
+        description: |
+          Focus is to develop computational algorithm from Digital H&E Stained Histopathology
+          Images to derive the driving decision of Long and Short Survivals in Brain Tumor
+          Patients using Weakly Supervised Approach.
 
   - title: Experience
     layout: list
     content:
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Lead Frontend Software Engineer
+        title: Research Intern
+        sub_title: CBICA
         caption: July 2021 - Present
         description: |
-          Taken accountability for the frontend of the payments product area within a commercial banking platform, becoming a go to for knowledge and technical decisions.
-          Currently developing a new frontend architecture transforming the current monolithic frontend application into a scalable modular application with micro-frontends
-          using Webpack Module Federation. This has been a great experience to develop a new workflow for developers to develop and release code and have input in all aspects
-          of the development workflow.
-          I have also been a key part of our frontend interview provess, I have worked to improve our interview process including writing new code tests, whilst interviewing
-          candidates across multiple countries.
+          Focus is to develop computational algorithm from Digital H&E Stained Histopathology 
+          Images to derive the driving decision of Long and Short Survivals in Brain Tumor
+          Patients using Weakly Supervised Approach. 
       - layout: left
         border: weak
-        title: NatWest
-        sub_title: Frontend Software Engineer
+        title: Assitant System Engineer
+        sub_title: Tata Consultancy Services, Pune, India
         caption: August 2017 - July 2021
         description: |
-          Working at NatWest as a front end engineer focusing mostly on a corporate banking product called Bankline.
-          Working as part of a scrum team consiting of 5 developers, 2 testers and a PO/BA I have the oportunity to help drive the team forwards and
-          work with the PO defining what we are building.
-          I spend most of my time working on a specifc area of a large application that our team take ownership over. The front end is a <mark>React</mark> app
-          that talks to an API built using a collection of <mark>Java</mark> microservices. I have spent time working in multiple parts of the stack including
-          helping to define our front end architecure to follow best practices to implementing PDF and CSV export in a microservice.
-          Last year I took the lead on rebuilding the login journey to our application. I worked with the architects and designers to create something that would
-          be fit for purpose and be easy to maintain for years to come. I then built this to a high standard which lead to a seamless switch over from the previous
-          system with no issues. More recently I have acted as a consultant to external teams and application architects to advise on how we should be building new
-          functionality within our application. I have also built reusable components to the same standards as opensource libraries which have been used by different teams across the bank.
-          I enjoy learning about all areas of our application which allows me to be a go-to person for knowledge and queries within my team and the other teams
-          in the office. I am always looking to suggest improvements and challenge what and how we are working to make sure we are delivering the best service
-          to the customers while also developing to the highest standards.
+          Worked with leading Bank as client for migration of legacy Infrastructure to AWS Cloud. 
+          As an System Engineer job was to integrate various components with each other.
       - layout: left
         border: weak
-        title: Simitive
-        sub_title: Full Stack Developer
-        link: www.simitive.com
+        title: Nymo.ai
+        sub_title: Data Science Intern
+        #link: www.simitive.com
         caption: November 2015 - August 2017
         description: |
-          During my time at Simitive I worked as part of an agile team building our own in house web based software and
-          also a large scale website for an international client. I gained experience working with a continuous integration
-          workflow using tools such as <mark>Jenkins</mark> and working with Amazon Web Services for deployments. We built most
-          of our software using <mark>Symfony</mark>, <mark>Backbone</mark>, <mark>Marionette</mark>, <mark>Vue</mark> and <mark>Vuex</mark>.
-          For 6 months I was working on delivering a standalone web product for an international client that services over
-          600,000 users. This has been built from the ground up using <mark>Symfony</mark> to provide a backend API and
-          <mark>Backbone</mark> for the front end. I also gained a lot of experience with <mark>Elasticsearch</mark> to provide
-          search functionality of millions of entities to the front end. During the project I spent time out of hours
-          communicating with the client, performing deployments and providing support.
-          Towards the end of my time at Simitive my role involved assisting with the company's devOps, this included managing
-          our <mark>AWS</mark> infrastructure as well as deploying and migrating sites. I also spent time configuring and maintaining
-          our clients SSO, this mostly involves configuring new clients who are using <mark>AD FS</mark>, <mark>Shibboleth</mark> and
-          <mark>CAS</mark> but also maintaining our software's SSO functionality.
+          During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
+          Also, worked on Mask Detection using YoloV3.
+
+- title: Awards and Accomplishment
+    layout: list
+    content:
       - layout: left
         border: weak
-        title: Freelance
-        sub_title: Android Development
-        caption: September 2016 - October 2016
+        sub_title: 2019
         description: |
-          I was asked to update an existing Android app to the latest version of Android and to fix any issues caused by
-          this as well as a few other existing issues. This project had a very tight time scale and I was able to complete
-          it in very good time while providing regular updates to the client.
+          1st Prize in Semantic Segmentation Challenge on IDD lite dataset organized at National
+          Conference on Computer Vision, Pattern Recognition, Image Processing and Graphics
+          (NCVPRIPG),India, by IIIT Hyderabad, India and Intel, India.
+
       - layout: left
         border: weak
-        title: Nudge Digital
-        sub_title: Full Stack Developer
-        link: www.nudgedigital.co.uk
-        caption: August 2014 - November 2015
+        sub_title: 2019
         description: |
-          While working at Nudge I was able to work on a large number of projects ranging from small Drupal sites to large
-          enterprise level applications. I enjoy being able to work with clients to understand and surpass their expectations.
-          At Nudge I was also given the oppertunity to work with all of my core skills and to gain new skills in things
-          such as <mark>Symfony</mark>, <mark>Angular</mark> and <mark>Gulp</mark>. I also worked on a number of <mark>iOS</mark> and
-          <mark>Android</mark> applications.
-          During my time at Nudge I was able to help the lead developer with the writing of Technical Specifications and
-          also Project Requirements. I feel this is a useful skill to have as it helps me to become an even more well-rounded
-          developer.
-          During the summer I had the opportunity to head to Accra, Ghana and work with the team out there. This was a
-          great opportunity to learn more about the industry in another country but also to allow me to lead their
-          team for a few weeks and gain lots of experience of remote teams.
+          Travel Grant awarded to attend National Conference on Computer Vision, Pattern
+          Recognition, Image Processing and Graphics (NCVPRIPG).
+
+
       - layout: left
-        title: GWS Media
-        sub_title: Web Developer
-        link: www.gwsmedia.com
-        caption: June 2012 - August 2014
+        border: weak
+        sub_title: 2019
         description: |
-          I started working for GWS Media part time during my third year at University and continued full time once I had
-          graduated. It was during this role that I learnt many of the fundamentals that I have been building on over
-          the past 3 years. Whilst at GWS I had the opportunity to work with:
-          <mark>Drupal</mark>, <mark>Magento</mark>, <mark>Bootstrap</mark>, <mark>Codeigniter</mark>, <mark>Android</mark> and <mark>iOS</mark>.
-          I feel like having the opportunity to use a large range of different things early on in my career has given me
-          the drive to always want to try new tools and frameworks.
-           
-  
+          Participated in AutoNUE Workshop Challenge organized at International Conference
+          on Computer Vision (ICCV), Korea. 
+
+      - layout: left
+        border: weak
+        sub_title: 2020
+        description: |
+          Poster Presentation at IEEE Conference on Computer Vision and Pattern Recognition
+          (CVPR) in Agriculture Vision Workshop.
+
+      - layout: left
+        border: weak
+        sub_title: 2020
+        description: |
+          Participated in Agriculture Vision Prize Challenge at Computer Vision and Pattern
+          Recognition (CVPR).
+
+      - layout: left
+        border: weak
+        sub_title: 2020
+        description: |
+          Participated in Age Related Macular Degeneration(AMD) challenge at IEEE International Symposium on Biomedical Imaging (ISBI) and ranked in top 10.
+      
+      - layout: left
+        border: weak
+        sub_title: 2020
+        description: |
+          Participated in Retinal Fundus Glaucoma Challenge Edition2 (REFUGE2) challenge at MICCAI, ranked in top 10.
+      
+      - layout: left
+        border: weak
+        sub_title: 2020
+        description: |
+          2nd Prize in Semantic Segmentation Challenge on IDD dataset organized at Indian
+          Conference on Computer Vision, Graphics and Image Processing (ICVGIP) at IIT
+          Jodhpur, by IIIT Hyderabad, and Intel, India.
+
+
+  - title: Knowledge Area
+    layout: list
+    content:
+      - layout: left
+        border: weak
+        title: Networks
+        #sub_title: 
+        #caption: July 2021 - Present
+        description: |
+          Convolutional Neural Network (CNN), Segmentation Models, CNN based classification
+          models, Object detection models, Generative Adversarial Networks (GAN)
+      - layout: left
+        border: weak
+        title: Libraries
+        sub_title: Tata Consultancy Services, Pune, India
+        caption: August 2017 - July 2021
+        description: |
+          Worked with leading Bank as client for migration of legacy Infrastructure to AWS Cloud. 
+          As an System Engineer job was to integrate various components with each other.
+      - layout: left
+        border: weak
+        title: Nymo.ai
+        sub_title: Data Science Intern
+        #link: www.simitive.com
+        caption: November 2015 - August 2017
+        description: |
+          During my time at Nymo.ai as Data Science Intern, worked to recognise the language of number plate for Automatic Number Plate Recognition System. 
+          Also, worked on Mask Detection using YoloV3.
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      I aim to work in an organization with research-based opportunities where I can utilize 
+      my skills to achieve the organization’s objective and grow personally and professionally.
+      Despite the short period of experience in the research sector, I have interest willingness to learn new things.
 
 # Footer
 footer_show_references: true
